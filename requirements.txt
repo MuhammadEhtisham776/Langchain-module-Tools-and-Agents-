@@ -1,0 +1,10 @@
+wikipedia
+langchain
+langchain-core 
+langchain-community 
+langchain-groq 
+langchain-huggingface 
+sentence-transformers 
+python-dotenv 
+duckduckgo-search  
+numexpr
