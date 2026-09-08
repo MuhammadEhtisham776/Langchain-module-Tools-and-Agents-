@@ -8,3 +8,7 @@ sentence-transformers
 python-dotenv 
 duckduckgo-search  
 numexpr
+chromadb
+langchain-chroma
+langchainhub
+langsmith
